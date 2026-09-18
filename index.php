@@ -1,5 +1,5 @@
 <?php
-require_once "config/database.php";
+require_once "db.php";
 ?>
 
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ require_once "config/database.php";
 
     <link
         rel="stylesheet"
-        href="css/style.css"
+        href="style.css"
     >
 
 </head>
